@@ -215,4 +215,28 @@ nav a:hover {
     .cta h2 {
         font-size: 2em;
     }
+
+    
+}
+
+.prompt-block {
+    /* Novo fundo cinza */
+    background-color: #e9ecef;
+    text-align: left;
+    border-left: 4px solid #7f8c8d;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 0.9em;
+    line-height: 1.5;
+    padding: 20px;
+    border-radius: 4px;
+    white-space: pre-wrap;
+    margin-bottom: 25px;
+}
+
+.prompt-explanation {
+    font-style: italic;
+    color: #7f8c8d;
+    font-size: 0.9em;
+    margin-top: -15px;
+    margin-bottom: 30px;
 }
